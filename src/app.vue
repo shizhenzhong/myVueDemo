@@ -16,7 +16,7 @@
 			</a>
 			<a class="mui-tab-item" href="#tabbar-with-map">
 				<span class="mui-icon mui-icon-gear"></span>
-				<span class="mui-tab-label">我的</span>
+				<span class="mui-tab-label">我的关于</span>
 			</a>
 		</nav>
     <h1>这是 App 组件</h1>
