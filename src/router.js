@@ -6,7 +6,8 @@ var router= new VueRouter({
 
     routes: [
        
-    ]
+    ],
+    linkActiveClass:'mui-active'
  
  })
 
