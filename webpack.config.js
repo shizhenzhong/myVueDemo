@@ -21,6 +21,7 @@ module.exports={
            template:path.join(__dirname,'./src/index.html'),
            filename:'index.html'
        })
+
    ],
    module: { // 配置所有第三方loader 模块的
     rules: [ // 第三方模块的匹配规则
